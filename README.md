@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Tamilvanan R
+AI Engineer 
 
-<!--
-**Tamilvanan0708/Tamilvanan0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Engineer passionate about building intelligent software solutions using Generative AI and modern full-stack technologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Current Work
+AI Engineer at Swivel Technology
+Contributing to Swico.in, an AI-powered conversational platform
+Building AI-powered web and mobile applications
+🚀 Skills
+Python
+FastAPI
+React.js
+Flutter
+PostgreSQL
+Supabase
+OpenAI API
+LangChain
+FAISS
+RAG
+Prompt Engineering
+Git
+Docker
+📱 Projects
+Swico.in
+ScoreX Cricket Management System
+Chicken Shop Management System
+E-Commerce Website
+Water Delivery Website
+Chicken Shop Online Sales Website
+📫 Reach Me
+📧 tamilvananrm78@gmail.com
